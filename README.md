@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Toma62299781)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a 1st year PhD student in Kyushu University
