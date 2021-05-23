@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       12 hrs 2 mins   ████████████████████▓░░░░   82.66 % 
-Markdown   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-SQL        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Text       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Python     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Java         11 hrs 50 mins  ███████████████████████▓░   94.48 % 
+Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
