@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-![Xiongfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toma62299781&count_private=true)
+![Xiongfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toma62299781)
 
 <!--START_SECTION:waka-->
 ```text
