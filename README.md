@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       3 hrs 33 mins   █████████████████████▒░░░   85.55 % 
-Markdown   36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Markdown   40 mins         ████████████████████▒░░░░   81.23 % 
+Java       9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
 ```
 <!--END_SECTION:waka-->
 
