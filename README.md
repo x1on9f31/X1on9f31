@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        20 hrs 51 mins  ██████████████████████▒░░   89.04 % 
-Google Doc   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Python       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other        15 hrs 40 mins  ██████████████████████▓░░   90.10 % 
+Markdown     1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 
