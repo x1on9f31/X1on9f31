@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 
 ![Xiongfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toma62299781)
 
+
+[![wakatime](https://wakatime.com/badge/user/9e8d5516-d162-43e7-9563-87295d455a71.svg)](https://wakatime.com/@9e8d5516-d162-43e7-9563-87295d455a71)
+
 <!--START_SECTION:waka-->
 ```text
 Rust         21 hrs 38 mins  █████████████░░░░░░░░░░░░   52.55 % 
