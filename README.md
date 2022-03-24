@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        46 hrs 55 mins  █████████████████████▓░░░   86.48 % 
-LaTeX        4 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Markdown     1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Google Doc   50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other        49 hrs 16 mins  ██████████████████████░░░   87.95 % 
+LaTeX        4 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Markdown     1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Google Doc   50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 <!--END_SECTION:waka-->
 
