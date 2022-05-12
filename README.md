@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        43 hrs 9 mins   ████████████████████████▓   98.40 % 
-C            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-LaTeX        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other        40 hrs 51 mins  ████████████████████████▒   97.33 % 
+C            46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+LaTeX        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 <!--END_SECTION:waka-->
