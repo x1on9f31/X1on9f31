@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other      37 hrs 51 mins  ███████████████████░░░░░░   76.26 % 
-C          11 hrs 2 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.23 % 
-Assembly   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Perl       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other      34 hrs 29 mins  ████████████████████░░░░░   79.46 % 
+C          8 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Assembly   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Text       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
