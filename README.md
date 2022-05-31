@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        19 hrs 33 mins  ██████████████████████▓░░   90.85 % 
-C            1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Assembly     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other      21 hrs 49 mins  ███████████████████████░░   92.46 % 
+C          1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Assembly   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Text       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
