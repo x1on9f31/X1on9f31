@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other      34 hrs 58 mins  ████████████████████████░   95.86 % 
-C          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Text       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-S          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Assembly   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other        34 hrs          ████████████████████████▓   98.31 % 
+C            31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
