@@ -1,7 +1,7 @@
 ### Hi there, this is xiongfei 👋
 
 
-- 🔭 I’m currently a 2nd year PhD student at Kyushu University.
+- 🔭 I’m currently a 3rd year PhD student at Kyushu University.
 - 🌱 I’m currently learning software engineering, deep learning...
 
 <!--
