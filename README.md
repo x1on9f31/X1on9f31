@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         8 hrs 58 mins   ███████████████████████░░   92.11 %
-LaTeX         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-TSQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-TeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other         8 hrs 21 mins   █████████████████████████   99.63 %
+TSQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+INI           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+LaTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
