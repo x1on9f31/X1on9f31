@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         9 hrs 16 mins   █████████████████████████   99.66 %
-TSQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-INI           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-LaTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other   7 hrs 50 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
