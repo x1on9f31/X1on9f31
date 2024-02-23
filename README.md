@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        23 hrs 7 mins   ██████████████████████░░░   88.48 %
-Markdown     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Google Doc   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Other        25 hrs 9 mins   ███████████████████████░░   91.78 %
+Markdown     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Google Doc   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
