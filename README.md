@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        26 hrs 41 mins  ███████████████████████▒░   92.68 %
-Markdown     2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Less         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other        23 hrs 48 mins  ███████████████████████░░   92.12 %
+Markdown     1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Less         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
