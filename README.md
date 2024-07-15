@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        26 hrs 7 mins   █████████████████████████   99.86 %
+Other        24 hrs 38 mins  █████████████████████████   99.86 %
 SSH Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
