@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        21 hrs 37 mins  ████████████████████████░   95.63 %
-LaTeX        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-SSH Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        17 hrs 24 mins  ███████████████████████░░   92.28 %
+LaTeX        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Google Doc   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+SSH Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
