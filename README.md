@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        1 hr 33 mins    ████████████████████▒░░░░   81.69 %
+C++          19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Google Doc   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
