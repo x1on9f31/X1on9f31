@@ -1,8 +1,7 @@
 ### Hi there, this is xiongfei 👋
 
 
-- 🔭 I’m currently a 3rd year PhD student at Kyushu University.
-- 🌱 I’m currently learning software engineering, deep learning...
+- 🌱 I’m currently learning software engineering, deep learning, and building more robust autonomous driving systems...
 
 <!--
 **X1on9f31/X1on9f31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
