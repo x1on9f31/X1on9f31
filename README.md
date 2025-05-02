@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        48 hrs 59 mins  ████████████████████████▓   99.07 %
-Google Doc   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-LaTeX        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        47 hrs 36 mins  ████████████████████████▓   98.88 %
+Google Doc   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+LaTeX        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
