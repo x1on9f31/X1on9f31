@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        44 hrs 30 mins  ████████████████████████░   96.00 %
-LaTeX        1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-SSH Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Google Doc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        50 hrs 37 mins  ████████████████████████░   96.25 %
+LaTeX        1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+SSH Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Google Doc   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
