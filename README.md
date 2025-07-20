@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   30 hrs 11 mins  ███████████████████░░░░░░   75.55 %
-LaTeX   9 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+Other   28 hrs 47 mins  █████████████████▓░░░░░░░   70.96 %
+LaTeX   11 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   29.03 %
 Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
