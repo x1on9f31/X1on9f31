@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   31 hrs 43 mins  ████████████████████████▒   97.30 %
-LaTeX   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Other   34 hrs 16 mins  ████████████████████████░   95.57 %
+LaTeX   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
