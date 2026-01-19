@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        34 hrs 25 mins  ██████████████████████▒░░   88.77 %
-LaTeX        3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Google Doc   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other        33 hrs          ██████████████████████░░░   88.35 %
+LaTeX        3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Google Doc   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
