@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other               32 hrs 41 mins        ██████████████████████▓░░   90.79 %
-Google Doc          2 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Markdown            42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other               32 hrs 49 mins        ███████████████████████░░   91.82 %
+Google Doc          2 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Markdown            19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Open Policy Agent   10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 LaTeX               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
