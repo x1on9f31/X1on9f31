@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other               39 hrs 53 mins        ███████████████████████░░   91.90 %
-Google Doc          2 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Open Policy Agent   21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-LaTeX               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Markdown            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other               45 hrs 45 mins        ███████████████████████▒░   93.37 %
+Google Doc          2 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+LaTeX               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Open Policy Agent   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Markdown            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
