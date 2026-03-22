@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        37 hrs 24 mins        █████████████████████░░░░   84.10 %
-Google Doc   5 hrs 45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Python       1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-SSH Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        38 hrs 19 mins        ██████████████████████░░░   87.69 %
+Google Doc   4 hrs 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Python       1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
